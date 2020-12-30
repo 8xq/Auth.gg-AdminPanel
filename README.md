@@ -1,5 +1,3 @@
-![Alt text](https://i.imgur.com/0jtNkXF.jpg "Example")
-
 #Auth.gg-AdminPanel (SETUP)
 ```
 *Setting up the panel is very simple , before building the program simply add your auth key !
@@ -7,6 +5,8 @@
 *Auth key can be found here -> https://auth.gg/dashboard/applications/settings.php
 *If you get any designer issues on load press skip and build project !
 ```
+
+![Alt text](https://i.imgur.com/0jtNkXF.jpg "Example")
 
 
 
