@@ -1,4 +1,6 @@
-# Auth.gg-AdminPanel (SETUP)
+![Alt text](https://i.imgur.com/0jtNkXF.jpg "Example")
+
+#Auth.gg-AdminPanel (SETUP)
 ```
 *Setting up the panel is very simple , before building the program simply add your auth key !
 *In panel.cs at the top look for "private static string AuthKey = ""; <- add between quotation marks
@@ -6,7 +8,7 @@
 *If you get any designer issues on load press skip and build project !
 ```
 
-![Alt text](https://i.imgur.com/0jtNkXF.jpg "Example")
+
 
 # Features
 ```
