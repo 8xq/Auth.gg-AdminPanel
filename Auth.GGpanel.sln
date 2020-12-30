@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auth.GGpanel", "Auth.GGpanel\Auth.GGpanel.csproj", "{4DC2482E-02FE-48CD-BD47-CD6D25F745C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC2482E-02FE-48CD-BD47-CD6D25F745C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC2482E-02FE-48CD-BD47-CD6D25F745C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC2482E-02FE-48CD-BD47-CD6D25F745C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC2482E-02FE-48CD-BD47-CD6D25F745C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC0EC85C-72E3-418C-ABC6-5C9AACC14719}
+	EndGlobalSection
+EndGlobal
