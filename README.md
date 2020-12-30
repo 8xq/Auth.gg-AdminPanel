@@ -26,6 +26,12 @@
 12 - Grab infomration on HWID
 ```
 
+# Video preview
+Video preview can be found here ! 
+click image to watch video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8_QIlBIt4vk/0.jpg)](https://www.youtube.com/watch?v=8_QIlBIt4vk)
+
+
 ```
 Admin@hvh.site
 ```
