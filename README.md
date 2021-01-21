@@ -21,9 +21,9 @@
 7 - Delete a licence
 8 - Unuse a licence
 9 - Use a licence
-10 - Generate licences
+10 - Generate licences (parse json) to get raw key
 11 - Reset HWID 
-12 - Grab infomration on HWID
+12 - Grab infomration on HWID 
 ```
 
 # Video preview
